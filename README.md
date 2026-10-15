@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Rico! 👋
+**Data Automation Specialist | Data Analyst**
 
-<!--
-**ricoharikurniawan/ricoharikurniawan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I help businesses save time and make data-driven decisions by building automated data pipelines and analytical dashboards. 
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack & Tools
+* **Automation:** Python, Playwright, Discord/Telegram API
+* **Data Processing:** Pandas, SQL
+* **No-Code / Low-Code:** Google AppSheet
+* **Tools:** VS Code, Git, DBeaver
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Featured Projects
+* **[Automated Market Data Pipeline]** *(Coming Soon)* - An end-to-end bot that extracts web data daily, cleans it using Pandas, and delivers automated insights via Discord.
+
+📫 **Reach me at:** [rikokurniawan184@gmail.com]
