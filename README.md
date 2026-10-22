@@ -1,15 +1,24 @@
-# Hi, I'm Rico! 👋
-**Data Automation Specialist | Data Analyst**
+# Halo, saya Rico 👋
 
-I help businesses save time and make data-driven decisions by building automated data pipelines and analytical dashboards. 
+Mahasiswa Sistem Informasi yang sedang membangun keahlian di **otomatisasi data dan laporan**
+dengan Python dan Excel. Saya suka mengubah data berantakan menjadi laporan yang siap dibaca.
 
-### 🛠️ Tech Stack & Tools
-* **Automation:** Python, Playwright, Discord/Telegram API
-* **Data Processing:** Pandas, SQL
-* **No-Code / Low-Code:** Google AppSheet
-* **Tools:** VS Code, Git, DBeaver
+## Yang bisa saya bantu
 
-### 🚀 Featured Projects
-* **[Automated Market Data Pipeline]** *(Coming Soon)* - An end-to-end bot that extracts web data daily, cleans it using Pandas, and delivers automated insights via Discord.
+- Merapikan dan menyatukan data dari beberapa sumber (Excel, CSV)
+- Membuat laporan Excel dan grafik otomatis
+- Mengotomatiskan pekerjaan berulang dengan skrip Python
 
-📫 **Reach me at:** [rikokurniawan184@gmail.com]
+## Proyek
+
+- **[toko-online-laporan-otomatis](https://github.com/ricoharikurniawan/toko-online-laporan-otomatis)**:
+  menyatukan ekspor penjualan dari Shopee, Tokopedia, TikTok Shop, dan WhatsApp, membersihkannya,
+  lalu membuat laporan Excel dan grafik. Hasilnya divalidasi 100% terhadap kunci jawaban.
+
+## Alat yang saya pakai
+
+Python (pandas, matplotlib), Excel, Git dan GitHub, VS Code
+
+## Kontak
+
+contact.ricoharikurniawan@gmail.com
